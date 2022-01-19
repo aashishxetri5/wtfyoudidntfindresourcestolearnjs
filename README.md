@@ -1,4 +1,4 @@
-# wtfyoudidntresourcestolearnjs
+# wtf you didn't find resources to learn js
 
 ### stop gathering resources start learning
 
