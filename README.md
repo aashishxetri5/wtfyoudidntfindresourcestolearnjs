@@ -72,3 +72,7 @@
 </br>
 
 ## stop gathering resources stat learning ✨
+
+by [js community of ITSNP](jsitsnporg) with love ❤
+![jscommunity](jscommunity.png)
+
